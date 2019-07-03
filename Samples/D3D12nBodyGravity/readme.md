@@ -16,6 +16,7 @@ The main differences are:
 * Windows 10, 64-bit
 * A Direct3D 12 compatible GPU
 * Screen resolution must be 1920x1080 or higher. The sample will run in 1600×1050 pixel resolution.
+* The WinPixEventRuntime is required to build, this can be installed by following these instructions: https://devblogs.microsoft.com/pix/winpixeventruntime/
 
 ## Notes
 
