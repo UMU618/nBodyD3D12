@@ -29,5 +29,6 @@
 #include <pix3.h>
 
 #include <wrl.h>
+#include <string>
 #include <vector>
 #include <shellapi.h>
